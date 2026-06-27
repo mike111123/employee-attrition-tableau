@@ -4,7 +4,7 @@
 **Timeline:** December 2025 – January 2026
 **Tools:** Tableau Public
 **Dataset:** [IBM HR Analytics Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) — 1,470 rows, 35 fields
-**Live Dashboard:** *(Add your Tableau Public link here after publishing)*
+**Live Dashboard:** *(Coming soon — dashboard being finalized on Tableau Public)*
 
 ---
 
